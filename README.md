@@ -1,2 +1,3 @@
 # DiasporaMatch
-AI-powered system for matching diaspora users to jobs and citizenship programs.
+
+AI-powered platform matching diaspora users with jobs and citizenship programs.
